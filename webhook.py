@@ -3,7 +3,7 @@ import random
 import time
 
 # Define the webhook URL
-WEBHOOK_URL = 'https://discord.com/api/webhooks/1162866896346021999/7B1bsyL9D2bJxb3mxyoBil-9bDxuYleYQouqNhvLjxZ_1dnV2923Io7dcra8twgZP7NW'
+WEBHOOK_URL = 'url here'
 
 # List of random names
 names = ['join for nukies', 'discord nuke software here', 'join plz', 'join for cheap nukies', 'ez nukes', 'l bro got nuked', 'get nuked :)']
