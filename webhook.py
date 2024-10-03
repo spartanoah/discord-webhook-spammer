@@ -2,13 +2,10 @@ import requests
 import random
 import time
 
-# Define the webhook URL
 WEBHOOK_URL = 'url here'
 
-# List of random names
 names = ['join for nukies', 'discord nuke software here', 'join plz', 'join for cheap nukies', 'ez nukes', 'l bro got nuked', 'get nuked :)']
 
-# Define the throttle interval in seconds
 throttle_interval = 0.25  # Change this value to your desired throttle interval
 
 def send_discord_message(webhook_url, name):
